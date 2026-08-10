@@ -193,7 +193,7 @@ or just want to talk tech — say hi.**
 ```text
 ╭────────────────────────────────────────────╮
 │                                            │
- │   "The best way to learn is to build."     │   
+|    "The best way to learn is to build."    | 
 │                                            │
 ╰────────────────────────────────────────────╯
 ```
