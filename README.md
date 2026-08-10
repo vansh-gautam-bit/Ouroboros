@@ -52,11 +52,11 @@ backends and APIs.
 ║                                                    ║
 ║   [███████████████████████████████████░░░]  BUILD  ║
 ║                                                    ║
-║   → AI Engineering                                ║
-║   → Intelligent Agents                            ║
-║   → Full-Stack Systems                            ║
-║   → Production-ready APIs                         ║
-║   → Learning something new every day              ║
+║   → AI Engineering                                 ║
+║   → Intelligent Agents                             ║
+║   → Full-Stack Systems                             ║
+║   → Production-ready APIs                          ║
+║   → Learning something new every day               ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
@@ -205,7 +205,7 @@ or just want to talk tech — say hi.**
 ```text
 ╭────────────────────────────────────────────╮
 │                                            │
-│       "The best way to learn is to build." │
+│   "The best way to learn is to build."     │   
 │                                            │
 ╰────────────────────────────────────────────╯
 ```
