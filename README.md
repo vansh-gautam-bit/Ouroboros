@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/profile-hero.png"
+    alt="Vansh - AI Builder"
+    width="100%"
+  />
+</p>
 <div align="center">
 
 # VANSH
