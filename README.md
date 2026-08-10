@@ -93,15 +93,44 @@ Built with:
 
 Python LangChain ChromaDB Gemini Embeddings RAG
 
-🧠 Tech Stack
-AI / LLM
-<p align="left"> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/> <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logoColor=00D9A5"/> <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logoColor=00D9A5"/> </p>
-Backend
-<p align="left"> <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/> <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/> </p>
-Frontend
-<p align="left"> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/> </p>
-Data / Tools
-<p align="left"> <img src="https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> </p>
+## 🧠 Tech Stack
+
+### AI / LLM
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logoColor=00D9A5"/>
+<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logoColor=00D9A5"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logoColor=00D9A5"/>
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+</p>
+
+### Database / Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</p>
 📊 GitHub Activity
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vansh-gautam-bit&show_icons=true&hide_border=true&theme=transparent&title_color=00D9A5&icon_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gautam-bit&layout=compact&hide_border=true&theme=transparent&title_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/> </div>
 🐍 Contribution.exe
