@@ -151,18 +151,6 @@ information before generating responses.
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vansh-gautam-bit&show_icons=true&hide_border=true&theme=transparent&title_color=00D9A5&icon_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gautam-bit&layout=compact&hide_border=true&theme=transparent&title_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/>
-
-</div>
-
----
-
 # 🐍 Contribution.exe
 
 <div align="center">
@@ -205,7 +193,7 @@ or just want to talk tech — say hi.**
 ```text
 ╭────────────────────────────────────────────╮
 │                                            │
-│   "The best way to learn is to build."     │   
+│    "The best way to learn is to build."    │   
 │                                            │
 ╰────────────────────────────────────────────╯
 ```
