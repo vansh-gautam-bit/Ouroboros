@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-hero.png"
+    src="./assests/profile-hero.png"
     alt="Vansh - AI Builder"
     width="100%"
   />
