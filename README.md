@@ -5,6 +5,7 @@
     width="100%"
   />
 </p>
+
 <div align="center">
 
 # VANSH
@@ -17,7 +18,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-gautam-bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansh-gautam-ouroboros/)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vansh.pku@gmail.cpm)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vansh.pku@gmail.com)
 
 </div>
 
@@ -32,68 +33,84 @@ Vansh
 ├── ⚡ Full-Stack Developer
 ├── 🧠 Learning: Agents • RAG • AI Systems
 └── 🚀 Currently: Building things and figuring out how to make them better
+```
 
-I like building AI-powered products that actually do something useful.
+I like building **AI-powered products that actually do something useful.**
 
-I'm especially interested in the space where AI meets real-world applications —
+I'm especially interested in the space where **AI meets real-world applications** —
 from intelligent agents and RAG systems to full-stack products with production-style
 backends and APIs.
 
-Build → Break → Debug → Learn → Ship → Repeat.
+> **Build → Break → Debug → Learn → Ship → Repeat.**
 
-// current mission
+---
+
+## `// current mission`
+
+```text
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
 ║   [███████████████████████████████████░░░]  BUILD  ║
 ║                                                    ║
-║   → AI Engineering                                 ║
-║   → Intelligent Agents                             ║
-║   → Full-Stack Systems                             ║
-║   → Production-ready APIs                          ║
-║   → Learning something new every day               ║
+║   → AI Engineering                                ║
+║   → Intelligent Agents                            ║
+║   → Full-Stack Systems                            ║
+║   → Production-ready APIs                         ║
+║   → Learning something new every day              ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
-⚔️ Projects
-🥘 Kitchen2Company
+```
 
-AI-powered business launch assistant for food entrepreneurs in India.
+---
+
+# ⚔️ Projects
+
+### 🥘 Kitchen2Company
+
+**AI-powered business launch assistant for food entrepreneurs in India.**
 
 Helps aspiring entrepreneurs understand business structures, registrations,
 compliance requirements and launch steps through a personalized AI consultation.
 
-Built with:
+**Built with:**
 
-React TypeScript Supabase Edge Functions DeepSeek AI/ML API Bright Data native.builder
+`React` `TypeScript` `Supabase` `Edge Functions` `DeepSeek` `AI/ML API` `Bright Data` `native.builder`
 
-🔗 Live: https://alqqx4l4klbbm9eacngnbyxpf.nativelyai.app
-🎥 Demo: https://youtu.be/dQrmNiAweWk
-💻 Repository: https://github.com/vansh-gautam-bit/kitchen2company
+🔗 **Live:** https://alqqx4l4klbbm9eacngnbyxpf.nativelyai.app  
+🎥 **Demo:** https://youtu.be/dQrmNiAweWk  
+💻 **Repository:** https://github.com/vansh-gautam-bit/kitchen2company
 
-🎬 VibeSync Captioner
+---
 
-AI video captioning playground and submission hub.
+### 🎬 VibeSync Captioner
+
+**AI video captioning playground and submission hub.**
 
 A full-stack application that generates multiple styles of video captions
 and supports text-to-speech playback.
 
-Built with:
+**Built with:**
 
-React TypeScript Vite Node.js Express Docker Google GenAI
+`React` `TypeScript` `Vite` `Node.js` `Express` `Docker` `Google GenAI`
 
-💻 Repository: https://github.com/vansh-gautam-bit/vibesync-captioner
+💻 **Repository:** https://github.com/vansh-gautam-bit/vibesync-captioner
 
-📚 RAG Document Assistant
+---
 
-Retrieval-Augmented Generation application for interacting with documents.
+### 📚 RAG Document Assistant
+
+**Retrieval-Augmented Generation application for interacting with documents.**
 
 Uses document chunking, embeddings and vector search to retrieve relevant
 information before generating responses.
 
-Built with:
+**Built with:**
 
-Python LangChain ChromaDB Gemini Embeddings RAG
+`Python` `LangChain` `ChromaDB` `Gemini Embeddings` `RAG`
 
-## 🧠 Tech Stack
+---
+
+# 🧠 Tech Stack
 
 ### AI / LLM
 
@@ -131,11 +148,34 @@ Python LangChain ChromaDB Gemini Embeddings RAG
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 </p>
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vansh-gautam-bit&show_icons=true&hide_border=true&theme=transparent&title_color=00D9A5&icon_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gautam-bit&layout=compact&hide_border=true&theme=transparent&title_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/> </div>
-🐍 Contribution.exe
-<div align="center"> <img src="https://raw.githubusercontent.com/vansh-gautam-bit/vansh-gautam-bit/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /> </div>
-🎯 Things I'm Exploring
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vansh-gautam-bit&show_icons=true&hide_border=true&theme=transparent&title_color=00D9A5&icon_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gautam-bit&layout=compact&hide_border=true&theme=transparent&title_color=00D9A5&text_color=9CA3AF&bg_color=00000000" height="165"/>
+
+</div>
+
+---
+
+# 🐍 Contribution.exe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vansh-gautam-bit/vansh-gautam-bit/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+# 🎯 Things I'm Exploring
+
+```text
 01  →  AI Agents
 02  →  RAG & Retrieval Systems
 03  →  LLM Application Architecture
@@ -143,22 +183,31 @@ Python LangChain ChromaDB Gemini Embeddings RAG
 05  →  Full-Stack AI Products
 06  →  Machine Learning
 07  →  Finance + Technology
-📡 Connect
+```
+
+---
+
+# 📡 Connect
+
 <div align="center">
 
-If you're building something interesting around AI, agents, backend systems,
-or just want to talk tech — say hi.
+If you're building something interesting around **AI, agents, backend systems,
+or just want to talk tech — say hi.**
 
 <br>
 
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-gautam-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansh-gautam-ouroboros/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vansh.pku@gmail.com)
 
 <br><br>
 
+```text
 ╭────────────────────────────────────────────╮
 │                                            │
-│   "The best way to learn is to build."     │
+│       "The best way to learn is to build." │
 │                                            │
 ╰────────────────────────────────────────────╯
-</div> ```
+```
+
+</div>
